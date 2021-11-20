@@ -2,6 +2,6 @@ package models;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class CoffeeTest {
+class WhiskeyTest {
 
 }

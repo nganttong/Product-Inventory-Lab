@@ -1,7 +1,7 @@
-package models;
+package services;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class TeaTest {
+class SneakerServiceTest {
 
 }
