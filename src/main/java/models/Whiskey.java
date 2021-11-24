@@ -9,6 +9,17 @@ public class Whiskey {
     private int qty;
     private float price;
 
+    public Whiskey(int id, String name, String brand, int proof, int bottleSize, int qty, float price) {
+        this.id = id;
+        this.name = name;
+        this.brand = brand;
+        this.proof = proof;
+        this.bottleSize = bottleSize;
+        this.qty = qty;
+        this.price = price;
+    }
+
+
     public int getId() {
         return id;
     }
